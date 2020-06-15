@@ -17,13 +17,13 @@ Total =153
 I tried designing a neural network with 2 layers and it is not giving good results, I have added 3 layers to improve the accuracy. Epoch is set to 150. Optimizer is adam. Also, I have standardized the data before feeding it to neural network. 
 
 ##Conclusion
-Following are the results after building 2 layer neural network
-The training accuracy is 75%
+Following are the results after building 2 layer neural network -
+The training accuracy is 75%, 
 And evaluation accuracy is 62%
 Which shows us that there is a overfitting.
 
-#Following are the results after building 3 layer neural network
-The training accuracy is 81%
+Following are the results after building 3 layer neural network -
+The training accuracy is 81%,
 And evaluation accuracy is 76%
 Which shows us that the accuracy is close to each other and no need to further redesign the neural network.
 
